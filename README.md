@@ -1,7 +1,6 @@
 # AWS-Project
 
 Project Structure
-
 Prepare custom script for Amazon Sagemaker
 Train a TensorFlow model using Amazon Sagemaker
 Deploy a TensorFlow model using Amazon Sagemaker
@@ -34,4 +33,3 @@ Create a model instance
 Instantiate training and validation generators
 Train the model
 Export the trained model
-
