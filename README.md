@@ -35,17 +35,17 @@ Train the model
 Export the trained model
 
 Task 8: Upload Dataset to S3
-
 The dataset prepared in Task 3 is uploaded to S3
-Task 9: TensorFlow Estimator
 
+Task 9: TensorFlow Estimator
 Create a TensorFlow Estimator
 Specify the entry point, execution role and other necessary arguments
 Using the fit method on the Estimator to launch the training job
+
 Task 10: Deploy the Model
-
 Deploy the trained model artifact using the Estimator
-Task 11: Inference and Deleting Endpoint
 
+Task 11: Inference and Deleting Endpoint
 Write a function to preprocess input images and get predictions from the deployed model
 Deleting the deployed model endpoint
+
