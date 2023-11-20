@@ -48,7 +48,7 @@ The roadmap delineated encompasses the structured progression of a machine learn
 A dedicated environment for coding, data analysis, and model development is established via AWS SageMaker, ensuring project-centric resource allocation and management.
 
 2-Data Acquisition and Preparation:
-Utilizing the Oxford-IIIT Pet Dataset, the roadmap includes tasks for data downloading, structuring, and partitioning into training and validation sets, laying a solid foundation for the ensuing model training phase.
+Utilizing the IMDB Dataset, the roadmap includes tasks for data downloading, structuring, and partitioning into training and validation sets, laying a solid foundation for the ensuing model training phase.
 
 3-Custom Model Creation:
 LSTM model is designed in pytorch and scripted, exhibiting the roadmap's capability to tailor model architecture as per the project's demands.
