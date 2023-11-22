@@ -75,13 +75,13 @@ Deploy a pytorch tenserflow model using Amazon Sagemaker.
 
 | File                                                                                                                   | Summary                   |
 | ---                                                                                                                    | ---                       |
-| [sagemaker project.ipynb](https://github.com/QsingularityAi/AWS-Project/blob/main/sagemaker project.ipynb) | HTTPStatus Exception: 401 |
+| [Sentiment Analsyis Model](https://github.com/QsingularityAi/AWS-Project/blob/main/sagemaker project.ipynb) | HTTPStatus Exception: 401 |
 
 </details>
 
 | File                                                                                                                   | Summary                   |
 | ---                                                                                                                    | ---                       |
-| [Tensorflow project.ipynb](https://github.com/QsingularityAi/AWS-Project/blob/main/sagemaker project.ipynb) | HTTPStatus Exception: 401 |
+| [Pre_trainmodel_image_analysis]((https://github.com/QsingularityAi/AWS-Project/blob/main/Tensorflow Model in AWS.ipynb) | HTTPStatus Exception: 401 |
 
 </details>
 
